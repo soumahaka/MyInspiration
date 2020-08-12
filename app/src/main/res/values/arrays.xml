@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="india_sublanguages">
+        <item> Hindi </item>
+        <item> Kannada</item>
+        <item>Malayalam </item>
+        <item>Tamil </item>
+    </string-array>
+
+</resources>
